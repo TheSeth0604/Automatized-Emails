@@ -3,8 +3,8 @@ import smtplib, ssl, csv
 from email.message import EmailMessage
 
 #usuario del que enviara
-sender = 'alvarocrispin0604@gmail.com'
-password = 'vfzzadiibbplfrqr'
+sender = ''
+password = ''
 
 #contexto del email
 subject = 'Email Example' #titulo
