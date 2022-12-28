@@ -5,8 +5,8 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.base import MIMEBase
 from email import encoders
 
-email_user= 'alvarocrispin0604@gmail.com'
-password="vfzzadiibbplfrqr"
+email_user= ''
+password=""
 subject="Email Example"
 
 with open('emails.csv', 'r') as csvfile:
